@@ -16,5 +16,3 @@ Usage:
 3. Receive your results, including speed and accuracy metrics.
 4. Try to achieve a high score by typing quickly and accurately.
 5. Choose to play the test again or exit the program.
-
-Text Typer provides a fun and educational way to practice your typing skills while keeping track of your progress over time. Challenge yourself, beat your own records, and become a faster and more accurate typist.
